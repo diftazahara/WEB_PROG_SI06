@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CV Difta Zahara</title>
+</head>
+<body bgcolor=#afeeee>
+    <h1 align="center">
+        <b>Curriculum Vitae</b>
+    </h1>
+    <center><img src="sayangku Cantik.jpg"width="125"></center>
+
+
+    <h3>
+        <b>Biodata</b>
+    </h3>
+    <p>Nama     : Difta Zahara</p>
+    <p>Jurusan  : Sistem Informasi</p>
+    <p>Angkatan : 2020</p>
+    <p>Status   : Belum menikah</p>
+
+    <h3>
+        <p>Biografi</p>
+    </h3>
+    <p>Saya Adalah Mahasiswi STT Nurul Fikri</p>
+    <p>Jurusan Sistem Informasi</p>
+
+    <h3>
+        <b>Pengalaman</b>
+    </h3>
+    <ol>
+        <li> Humas Remaja Masjid Baiturrahman </li>
+    </ol>
+
+    <h3>
+        <b>Hobi</b>
+    </h3>
+    <ul>
+        <li>Nonton Film</li>
+    </ul>
+
+    <h3>
+        <b>Riwayat Sekolah</b>
+    </h3>
+    <table border="1" cellpadding="8">
+        <tr>
+            <td>2006-2012</td>
+            <td>SDN Mekar Jaya 4</td>
+        </tr>
+        <tr>
+            <td>2012-2015</td>
+            <td>SMP PGRI 2</td>
+        </tr>
+        <tr>
+            <td>2015-2018</td>
+            <td>SMK Ganesa Satria 1</td>
+        </tr>
+    </table>
+
+    <h3>
+        <b>Kontak</b>
+    </h3>
+    <p>Email     : diftasahara15@gmail</p>
+    <p>Telp      : 0896-7825-5829</p>
+    <p>Instagram : Difta zahara</p>
+    <h3>
+        <b>Github</b>
+    </h3>
+    <p> <a href=https://github.com/diftazahara>diftazahara</a></p> 
+
+</body>
+</html>
